@@ -29,7 +29,7 @@ Het traject Winstpakkers bestaat uit:
   praktijkbeproevingen afgerond, zodat ook andere gemeenten van deze
   implementatie-ervaring kunnen profiteren.
 
-## Werkgroep Zaak- en Documentservices
+<!-- ## Werkgroep Zaak- en Documentservices
 
 Voor het beheer en de verdere ontwikkeling hebben leveranciers en
 gemeenten zich verenigd in de werkgroep Zaak- en Documentservices. Deze
@@ -38,4 +38,4 @@ Ondersteuning](GEMMA_Ondersteuning#Overleggroepen "wikilink"). Meer
 informatie over de werkgroep, data van bijeenkomsten en de bijbehorende
 stukken is op de
 [werkgroeppagina](Werkgroep_Zaak-_Documentservices "wikilink") te
-vinden.
+vinden. -->
