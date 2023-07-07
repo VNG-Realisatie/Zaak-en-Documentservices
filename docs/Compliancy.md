@@ -46,7 +46,7 @@ De specificatie Zaak- en Documentservices beschrijft vier referentiecomponenten.
 * Zaak service consumer (ZSC, de applicatie die gebruik maakt van de zaakservices) applicatie ;
 * Document service consumer (DSC, de applicatie die gebruik maakt van de documentservices) applicatie.
 
-<img src="./images/Zs-dms applicatie architectuur.png" width="600"/>
+<img src="./images/Zs-dms_applicatie_architectuur.png" width="600"/>
 
 ## Consumer en provider testen
 
@@ -101,13 +101,13 @@ De testscenario’s behorende bij deze testset zijn beschreven in spreadsheets:
 
 In de spreadsheat is er per referentiecomponent/rol een tabblad opgenomen waar u de testscenario’s vindt die relevant zijn voor softwareproducten die deze referentiecomponent/rol invullen. Een testscenario beschrijving bestaat uit een sequence diagram (in UML) en een tabel waarin wordt toegelicht welke acties uitgevoerd moeten worden en wat daarbij het resultaat moet zijn.
 
-<img src="./images/Zaak- en Documentservices afbeelding 1.png" width="600"/>
+<img src="./images/Zaak-_en_Documentservices_afbeelding_1.png" width="600"/>
  
 Afbeelding 2: voorbeeld scenariobeschrijving
 
 Het sequence diagram geeft aan in welke volgorde de berichten verstuurd moeten worden door het StUF Testplatform of de te testen applicatie. De rode bolletjes geven de scenariostappen weer.
 
-<img src="./images/Zaak- en Documentservices afbeelding 2.png" width="600"/>
+<img src="./images/Zaak-_en_Documentservices_afbeelding_2.png" width="600"/>
 
 Afbeelding 3: voorbeeld sequence diagram
 
