@@ -1,3 +1,7 @@
+---
+layout: page-with-side-nav
+title: Documentatie Zaak- en Documentservices
+---
 ## Documentatie
 
 Hieronder kunt u de documentatie voor de Zaak- en Documentservices
