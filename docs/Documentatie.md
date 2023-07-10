@@ -1,4 +1,40 @@
-## Documentatie
+---
+layout: page-with-side-nav
+title: Documenten Zaak- en Documentservices
+folder_files:
+  - title: 20150707_Specificatie_Zaak-_en_Documentservices_v1.1.02.pdf
+    path: documenten/20150707_Specificatie_Zaak-_en_Documentservices_v1.1.02.pdf
+    group: 110
+  - title: BIJLAGE_B-mapping-cmis-properties-rgbz-attributen.xslx.zip
+    path: documenten/BIJLAGE_B-mapping-cmis-properties-rgbz-attributen.xslx.zip
+    group: 120
+  - title: BIJLAGE_B-mapping-cmis-properties-rgbz-attributen.xslx.zip
+    path: documenten/BIJLAGE_B-mapping-cmis-properties-rgbz-attributen.xslx.zip
+    group: 110
+  - title: Mapping_zds11_zds12.zip
+    path: documenten/Mapping_zds11_zds12.zip
+    group: 120
+  - title: Releasenotes_Zaak-Documentservices_1.2_Patch_2017_Q1.pdf
+    path: documenten/Releasenotes_Zaak-Documentservices_1.2_Patch_2017_Q1.pdf
+    group: 120
+  - title: Releasenotes_Zaak-Documentservices_1.2_Patch_2017_Q1.pdf
+    path: documenten/Releasenotes_Zaak-Documentservices_1.2_Patch_2017_Q1.pdf
+    group: 120
+  - title: Testset_Zaak_en_Documentservices_1.1.zip
+    path: documenten/Testset_Zaak_en_Documentservices_1.1.zip
+    group: 110
+  - title: Zaak-_Documentservices_1_2.zip
+    path: documenten/Zaak-_Documentservices_1_2.zip
+    group: 120
+  - title: Zaak_DocumentServices_1_1_02.zip
+    path: documenten/Zaak_DocumentServices_1_1_02.zip
+    group: 110
+  - title: Zds_verwerkingssoort_T_of_I.zip
+    path: documenten/Zds_verwerkingssoort_T_of_I.zip
+    group: 120
+---
+
+# Documentatie
 
 Hieronder kunt u de documentatie voor de Zaak- en Documentservices
 vinden. Let op: de versie van de schema's van de Zaak- Documentservices
@@ -16,10 +52,30 @@ regels uit de StUF standaard en de koppelvlak specificatie. Dit
 overzicht (zds_verwerkingssoort_T_of_I) is te vinden in de documentatie
 hieronder.
 
-### <small>Zaak- en Documentservices 1.2</small>
+## <small>Zaak- en Documentservices 1.2</small>
 
-### <small>Zaak- en Documentservices 1.1</small>
+<ul>
+	{% for i in page.folder_files %}
+		{% if i.group == 120 %} 
+			<li>
+			  <a href="{{ i.path | base_url }}">
+				{{ i.title }}
+			  </a>
+			</li>
+		{% endif %} 
+	{% endfor %}
+</ul>
 
-### <small>Zaak- en Documentservices Archief</small>
+## <small>Zaak- en Documentservices 1.1</small>
 
-</div>
+<ul>
+	{% for i in page.folder_files %}
+		{% if i.group == 110 %} 
+			<li>
+			  <a href="{{ i.path | base_url }}">
+				{{ i.title }}
+			  </a>
+			</li>
+		{% endif %} 
+	{% endfor %}
+</ul>
