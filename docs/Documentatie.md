@@ -5,43 +5,49 @@ folder_files:
   - title: 20150707_Specificatie_Zaak-_en_Documentservices_v1.1.02.pdf
     path: documenten/20150707_Specificatie_Zaak-_en_Documentservices_v1.1.02.pdf
     group: 110
-    versie: 
-    status: Definitief
-    omschrijving: 
-  - title: BIJLAGE_B-mapping-cmis-properties-rgbz-attributen.xslx.zip
-    path: documenten/BIJLAGE_B-mapping-cmis-properties-rgbz-attributen.xslx.zip
-    group: 120
-    versie: 
-    status: Definitief
+    versie: 1.1.02
+    status: Onbekend
     omschrijving: 
   - title: BIJLAGE_B-mapping-cmis-properties-rgbz-attributen.xslx.zip
     path: documenten/BIJLAGE_B-mapping-cmis-properties-rgbz-attributen.xslx.zip
     group: 110
-    versie: 
-    status: Definitief
-    omschrijving: 
-  - title: Mapping_zds11_zds12.zip
-    path: documenten/Mapping_zds11_zds12.zip
-    group: 120
-    versie: 
-    status: Definitief
-    omschrijving: 
-  - title: Releasenotes_Zaak-Documentservices_1.2_Patch_2017_Q1.pdf
-    path: documenten/Releasenotes_Zaak-Documentservices_1.2_Patch_2017_Q1.pdf
-    group: 120
-    versie: 
-    status: Definitief
-    omschrijving: 
-  - title: Releasenotes_Zaak-Documentservices_1.2_Patch_2017_Q1.pdf
-    path: documenten/Releasenotes_Zaak-Documentservices_1.2_Patch_2017_Q1.pdf
-    group: 120
     versie: 
     status: Definitief
     omschrijving: 
   - title: Testset_Zaak_en_Documentservices_1.1.zip
     path: documenten/Testset_Zaak_en_Documentservices_1.1.zip
     group: 110
+    versie: 1.3
+    status: In bewerking
+    omschrijving: 
+  - title: Zaak_DocumentServices_1_1_02.zip
+    path: documenten/Zaak_DocumentServices_1_1_02.zip
+    group: 110
+    versie: 1.1.02
+    status: Onbekend
+    omschrijving: 
+  - title: BIJLAGE_B-mapping-cmis-properties-rgbz-attributen.xslx.zip
+    path: documenten/BIJLAGE_B-mapping-cmis-properties-rgbz-attributen.xslx.zip
+    group: 120
     versie: 
+    status: Definitief
+    omschrijving: 
+  - title: Mapping_zds11_zds12.zip
+    path: documenten/Mapping_zds11_zds12.zip
+    group: 120
+    versie: 1.0
+    status: 
+    omschrijving: 
+  - title: Releasenotes_Zaak-Documentservices_1.2_Patch_2017_Q1.pdf
+    path: documenten/Releasenotes_Zaak-Documentservices_1.2_Patch_2017_Q1.pdf
+    group: 120
+    versie: 1.2 Patch 2017 Q1
+    status: 
+    omschrijving: Releasenotes Zaak-Documentservices 1.2 Patch 2017 Q1
+  - title: Specificatie_Zaak-_en_Documentservices_v1.2.pdf
+    path: documenten/Specificatie_Zaak-_en_Documentservices_v1.2.pdf
+    group: 120
+    versie: 1.2
     status: Definitief
     omschrijving: 
   - title: Zaak-_Documentservices_1_2.zip
@@ -49,13 +55,7 @@ folder_files:
     group: 120
     versie: 
     status: Definitief
-    omschrijving: 
-  - title: Zaak_DocumentServices_1_1_02.zip
-    path: documenten/Zaak_DocumentServices_1_1_02.zip
-    group: 110
-    versie: 
-    status: Definitief
-    omschrijving: 
+    omschrijving: Goedgekeurd door de werkgoep Zaak- Documentservices tijdens de bijeenkomst op 22-03-2017
   - title: Zds_verwerkingssoort_T_of_I.zip
     path: documenten/Zds_verwerkingssoort_T_of_I.zip
     group: 120
