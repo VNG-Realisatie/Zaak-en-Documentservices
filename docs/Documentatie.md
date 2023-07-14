@@ -1,6 +1,6 @@
 ---
 layout: page-with-side-nav
-title: Documenten Zaak- en Documentservices
+title: Documentatie Zaak- en Documentservices
 folder_files:
   - title: 20150707_Specificatie_Zaak-_en_Documentservices_v1.1.02.pdf
     path: documenten/20150707_Specificatie_Zaak-_en_Documentservices_v1.1.02.pdf
