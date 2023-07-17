@@ -1,6 +1,6 @@
 ---
 layout: page-with-side-nav
-title: Zaak- en Documentservices
+title: Aan de slag Zaak- en Documentservices
 ---
 # Aan de slag Zaak- en Documentservices
 
