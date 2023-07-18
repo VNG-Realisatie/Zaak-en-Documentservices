@@ -4,10 +4,10 @@ title: Aan de slag Zaak- en Documentservices
 ---
 # Aan de slag Zaak- en Documentservices
 
-De afgelopen jaren heeft KING verschillende standaarden vastgesteld. Met
+De afgelopen jaren heeft VNG Realisatie verschillende standaarden vastgesteld. Met
 zes van deze standaarden zijn in in 2014 in het traject Winstpakkers
 praktijkbeproevingen uitgevoerd in het kader van Operatie NUP. Er is
-veel bereikt, maar het werk is niet af. Daarom biedt KING gemeenten tot
+veel bereikt, maar het werk is niet af. Daarom biedt VNG Realisatie gemeenten tot
 1 november 2015 enige ondersteuning op terreinen waar met weinig
 middelen nog veel resultaat kan worden bereikt. Onder andere het
 koppelvlak Zaak- en Documentservices valt onder deze ondersteuning.

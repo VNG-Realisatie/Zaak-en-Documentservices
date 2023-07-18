@@ -28,7 +28,7 @@ aan de standaard Zaak-Document services 1.2.
 
 Om te kunnen sturen op kwalitatief goede inbouw van standaarden en het
 risico op interoperabiliteitsproblemen bij gemeenten preventief te
-verkleinen heeft KING voor de Zaak- en Documentservices een testset
+verkleinen heeft VNG Realisatie voor de Zaak- en Documentservices een testset
 ontwikkeld. Een softwareproduct is compliant aan de Zaak- en
 Documentservices 1.2 indien de voorgeschreven testen uit de testset
 foutloos zijn uitgevoerd, de finale testrapportages uit het StUF
@@ -62,7 +62,7 @@ Softwarecatalogus](https://www.softwarecatalogus.nl/).
 
 ## Hoe borg ik dat het koppelvlak ook daadwerkelijk wordt geleverd?
 
-KING heeft de [Handreiking leverings- en acceptatievoorwaarden
+VNG Realisatie heeft de [Handreiking leverings- en acceptatievoorwaarden
 ICT](./documenten/130131_Leverings_en_acceptatievoorwaarden_versie_2_Definitief.pdf)
 opgesteld. Dit document biedt u een set van artikelen die u geheel of
 gedeeltelijk kunt inweven in eigen inkoop- en acceptatievoorwaarden ICT.
@@ -70,4 +70,4 @@ Hiermee borgt u dat in de uitvraag expliciet wordt gevraagd om het
 leveren van de standaard en het voldoen aan de compliancy.
 
 Meer informatie hierover leest u op de pagina ICT-opdrachtgeverschap van
-Operatie NUP en KING.
+Operatie NUP en VNG Realisatie.
