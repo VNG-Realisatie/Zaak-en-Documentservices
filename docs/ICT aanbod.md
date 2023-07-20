@@ -19,7 +19,7 @@ title: ICT aanbod Zaak- en Documentservices
 ## Welke softwareproducten ondersteunen de standaard?
 
 De standaard is in lijn met GEMMA en maakt gebruik van onderliggende
-standaarden RGBZ 1.0, StUF ZKN 3.1 en CMIS 1.0. In de [GEMMA
+standaarden <span style="color:red">RGBZ 1.0</span>, StUF [ZKN 3.10](https://vng-realisatie.github.io/StUF-ZKN/) en [CMIS 1.0](http://docs.oasis-open.org/cmis/CMIS/v1.0/cmis-spec-v1.0.html). In de [GEMMA
 Softwarecatalogus](https://www.softwarecatalogus.nl/) vindt u een
 overzicht van alle softwareproducten van leveranciers die zijn gekoppeld
 aan de standaard Zaak-Document services 1.2.
@@ -42,7 +42,7 @@ De [GEMMA Softwarecatalogus](https://www.softwarecatalogus.nl/) biedt u
 in twee simpele stappen een overzicht van softwareapplicaties die de
 standaard Zaak-Document Services 1.2 ondersteunen:
 
-- Stap 1: Ga naar de GEMMA Softwarecatalogus, selecteer: ‘alle
+- Stap 1: Ga naar de [GEMMA Softwarecatalogus](https://www.softwarecatalogus.nl/), selecteer: ‘alle
   pakketten’.
 - Stap 2: Kies in de linkerkolom onder de kop “standaarden”
   Zaak-Document services. Het overzicht wordt gegenereerd met alle
