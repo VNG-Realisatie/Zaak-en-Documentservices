@@ -67,12 +67,7 @@ folder_files:
 # Documentatie
 
 Hieronder kunt u de documentatie voor de Zaak- en Documentservices
-vinden. Let op: de versie van de schema's van de Zaak- Documentservices
-die bij sectormodel [StUF
-ZKN](https://vng-realisatie.github.io/StUF-ZKN/)
-zijn opgenomen zijn verouderd. Voor de XSD schema's behorende bij versie
-1.2 moet het bestand hier op de pagina gebruikt worden. Deze XSD
-Schema's zijn gemaakt op patch 24 van sectormodel [StUF
+vinden. De XSD Schema's hieronder zijn gemaakt op patch 24 van sectormodel [StUF
 ZKN](https://vng-realisatie.github.io/StUF-ZKN/).
 
 Naar aanleiding van vragen over het gebruik van attribuut
