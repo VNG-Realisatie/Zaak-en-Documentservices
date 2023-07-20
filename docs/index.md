@@ -4,6 +4,10 @@ title: Zaak- en Documentservices
 ---
 # Zaak- en Documentservices
 
+
+**Beheerder**  VNG Realisatie<br/>
+**Afkorting**  StUF-ZDS
+
 ***Gemeenten, leveranciers en VNG Realisatie werken aan een nieuwe
 generatie standaarden voor zaakgericht werken. Zie voor de voortgang van
 dit project [hier](https://github.com/vng-realisatie/gemma-zaken).***
