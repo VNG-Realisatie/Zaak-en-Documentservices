@@ -18,7 +18,7 @@ Op 1 oktober 2013 heeft VNG Realisatie de technische professionals van leveranci
 
 Doel van dit document is het definiëren van een standaard testset voor het testen van koppelingen die gebaseerd zijn op de Zaak- en Documentservices . Deze testset beschrijft de tests die minimaal voorafgaand aan het in productie nemen van (aangepaste of nieuwe) software door de betreffende softwareleverancier uitgevoerd moeten worden.
 
-De testen dienen uitgevoerd te worden conform deze beschrijving en met behulp en conform de voorwaarden van het [StUF Testplatform](http://www.stuftestplatform.nl/). Voor gebruik van deze testset is een abonnement nodig op het StUF Testplatform nodig. Organisaties dienen voor zover ze nog geen abonnement hebben zich aan te melden. Zie: StUF Testplatform
+De testen dienen uitgevoerd te worden conform deze beschrijving en met behulp en conform de voorwaarden van het [StUF Testplatform](http://www.stuftestplatform.nl/). Voor gebruik van deze testset is een abonnement nodig op het StUF Testplatform nodig. Organisaties dienen voor zover ze nog geen abonnement hebben zich aan te melden. Zie: [StUF Testplatform](http://www.stuftestplatform.nl/).
 
 Indien voldaan wordt aan alle compliancy eisen uit kan de betreffende leverancier aangeven dat het geteste softwareproduct compliant is aan de standaard Zaak- en Documentservices.
 
@@ -116,6 +116,6 @@ Afbeelding 3: voorbeeld sequence diagram
 
 Het StUF Testplatform is een onafhankelijk en formeel toetsinginstrument voor het testen van koppelingen gebaseerd op standaarden uit de StUF familie. Het platform is vanaf eind 2011 in productie en wordt beheerd en doorontwikkeld door VNG Realisatie.
 
-Primair is het StUF Testplatform voor ICT softwareleveranciers die werkzaam zijn op de gemeentelijke markt. Zij kunnen vroegtijdig tijdens de ontwikkeling van software testen of applicatie-applicatiekoppelingen voldoen aan StUF. Leveranciers worden geacht een (preventieve) test uit te voeren op het StUF Testplatform voordat een softwareproduct in productie wordt genomen.
+Primair is het [StUF Testplatform](http://www.stuftestplatform.nl/) voor ICT softwareleveranciers die werkzaam zijn op de gemeentelijke markt. Zij kunnen vroegtijdig tijdens de ontwikkeling van software testen of applicatie-applicatiekoppelingen voldoen aan StUF. Leveranciers worden geacht een (preventieve) test uit te voeren op het StUF Testplatform voordat een softwareproduct in productie wordt genomen.
 
 In de [handleiding StUF Testplatform](./documenten/Gebruikershandleiding_StUF_Testplatform.pdf) wordt verder toegelicht hoe het testplatform gebruikt kan worden.
