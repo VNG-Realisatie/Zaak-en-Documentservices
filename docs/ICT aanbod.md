@@ -6,15 +6,7 @@ title: ICT aanbod Zaak- en Documentservices
 
 ## Afspraken met leveranciers
 
-- In het [addendum Zaak- en
-  Documentservices](https://www.softwarecatalogus.nl/addenda/addendum/Zaak%20en%20documentservices)
-  zijn afspraken gemaakt over implementatie van deze standaard in
-  software;
-- Leveranciers zijn akkoord met de afspraak om de standaard beschikbaar
-  te stellen in de 1e release na 1 juli 2014 en uiterlijk 31 december
-  2014.
-- Leveranciers houden de actuele releaseplanning ten aanzien van deze
-  standaard bij in de GEMMA Softwarecatalogus.
+Leveranciers houden de actuele releaseplanning ten aanzien van deze standaard bij in de GEMMA Softwarecatalogus.
 
 ## Welke softwareproducten ondersteunen de standaard?
 
