@@ -61,5 +61,5 @@ gedeeltelijk kunt inweven in eigen inkoop- en acceptatievoorwaarden ICT.
 Hiermee borgt u dat in de uitvraag expliciet wordt gevraagd om het
 leveren van de standaard en het voldoen aan de compliancy.
 
-Meer informatie hierover leest u op de pagina ICT-opdrachtgeverschap van
+Meer informatie hierover leest u op de pagina <span style="color:red">ICT-opdrachtgeverschap</span> van
 Operatie NUP en VNG Realisatie.
