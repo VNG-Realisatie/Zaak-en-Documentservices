@@ -29,9 +29,7 @@ beschikbaar, zodat u alle betrokken afdelingen, andere ketenpartijen,
 burgers en bedrijven inzicht hebben of ermee kunnen werken? De standaard
 Zaak- en Document services zorgt hiervoor. De standaard - Zaak- en
 Documentservices 1.0 - is vastgesteld en heeft de status ‘in gebruik’.
-Dit betekent dat de standaard gereed is voor implementatie. In de
-[Winstpakker](./Aan de slag#het-traject-winstpakkers) Zaakgericht werken wordt de standaard geïmplementeerd. Vraag
-naar deze standaard bij uw leverancier.
+Dit betekent dat de standaard gereed is voor implementatie.
 
 ## Wat levert de standaard op?
 
