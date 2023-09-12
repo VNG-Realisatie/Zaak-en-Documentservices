@@ -8,15 +8,13 @@ title: Compliancy Zaak- en Documentservices
 
 De standaard Zaak- en Documentservices is op 5 juni 2013 formeel vastgesteld door de StUF Regiegroep. Daarmee heeft de standaard de status ‘In gebruik’ en wordt gemeenten aanbevolen om deze standaard te gebruiken.
 
-Voor een juiste toepassing van de standaard Zaak- en Documentservices worden door VNG Realisatie compliancy instrumenten ontwikkeld met als doel interoperabiliteitsproblemen tussen applicaties bij gemeenten preventief te verminderen. In de paragraaf 2.1 ”Wanneer is een softwareproduct compliant” is aangegeven wanneer een softwareproduct compliant is aan de standaard Zaak- en Documentservices.
+Voor een juiste toepassing van de standaard Zaak- en Documentservices zijn door VNG Realisatie compliancy instrumenten ontwikkeld met als doel interoperabiliteitsproblemen tussen applicaties bij gemeenten preventief te verminderen. In de paragraaf ”Wanneer is een softwareproduct compliant” is aangegeven wanneer een softwareproduct compliant is aan de standaard Zaak- en Documentservices.
 
 VNG Realisatie adviseert gemeenten bij aanschaf van software die moet voldoen aan deze standaard gebruik te maken van de [Handreiking Levering en Acceptatievoorwaarden ICT](./documenten/130131_Leverings_en_acceptatievoorwaarden_versie_2_Definitief.pdf). Daarin zijn voorwaarden opgenomen over het gebruik van compliancy instrumenten.
 
-Op 1 oktober 2013 heeft VNG Realisatie de technische professionals van leveranciers tekst en uitleg gegeven over het deze testset en het gebruik van het StUF Testplatform. Onderliggend document maakt deel uit van de compliancy instrumenten van VNG Realisatie.
+## Testset
 
-## Doel van document
-
-Doel van dit document is het definiëren van een standaard testset voor het testen van koppelingen die gebaseerd zijn op de Zaak- en Documentservices . Deze testset beschrijft de tests die minimaal voorafgaand aan het in productie nemen van (aangepaste of nieuwe) software door de betreffende softwareleverancier uitgevoerd moeten worden.
+Deze testset voor Zaak- en Documentservices beschrijft de tests die minimaal voorafgaand aan het in productie nemen van (aangepaste of nieuwe) software door de betreffende softwareleverancier uitgevoerd moeten worden.
 
 De testen dienen uitgevoerd te worden conform deze beschrijving en met behulp en conform de voorwaarden van het [StUF Testplatform](http://www.stuftestplatform.nl/). Voor gebruik van deze testset is een abonnement nodig op het StUF Testplatform nodig. Organisaties dienen zich, voor zover ze nog geen abonnement hebben, aan te melden. Zie: [StUF Testplatform](http://www.stuftestplatform.nl/).
 
