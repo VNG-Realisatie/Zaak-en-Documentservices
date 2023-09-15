@@ -8,60 +8,70 @@ folder_files:
     versie: 1.1.02
     status: Onbekend
     omschrijving: 
+    datum: 20151006
   - title: BIJLAGE_B-mapping-cmis-properties-rgbz-attributen.xslx.zip
     path: documenten/BIJLAGE_B-mapping-cmis-properties-rgbz-attributen.xslx.zip
     group: 110
     versie: 
     status: Definitief
     omschrijving: 
+    datum: 20161012
   - title: Testset_Zaak_en_Documentservices_1.1.zip
     path: documenten/Testset_Zaak_en_Documentservices_1.1.zip
     group: 110
     versie: 1.3
     status: In bewerking
     omschrijving: 
+    datum: 20170714
   - title: Zaak_DocumentServices_1_1_02.zip
     path: documenten/Zaak_DocumentServices_1_1_02.zip
     group: 110
     versie: 1.1.02
     status: Onbekend
     omschrijving: 
+    datum: 20150707
   - title: BIJLAGE_B-mapping-cmis-properties-rgbz-attributen.xslx.zip
     path: documenten/BIJLAGE_B-mapping-cmis-properties-rgbz-attributen.xslx.zip
     group: 120
     versie: 
     status: Definitief
     omschrijving: 
+    datum: 20161012
   - title: Mapping_zds11_zds12.zip
     path: documenten/Mapping_zds11_zds12.zip
     group: 120
     versie: 1.0
     status: 
     omschrijving: 
+    datum: 20160728
   - title: Releasenotes_Zaak-Documentservices_1.2_Patch_2017_Q1.pdf
     path: documenten/Releasenotes_Zaak-Documentservices_1.2_Patch_2017_Q1.pdf
     group: 120
     versie: 1.2 Patch 2017 Q1
     status: 
     omschrijving: Releasenotes Zaak-Documentservices 1.2 Patch 2017 Q1
+    datum: 20170503
   - title: Specificatie_Zaak-_en_Documentservices_v1.2.pdf
     path: documenten/Specificatie_Zaak-_en_Documentservices_v1.2.pdf
     group: 120
     versie: 1.2
     status: Definitief
     omschrijving: 
+    datum: 20170401
   - title: Zaak-_Documentservices_1_2.zip
     path: documenten/Zaak-_Documentservices_1_2.zip
     group: 120
     versie: 
     status: Definitief
     omschrijving: Goedgekeurd door de werkgoep Zaak- Documentservices tijdens de bijeenkomst op 22-03-2017
+    datum: 20170401
   - title: Zds_verwerkingssoort_T_of_I.zip
     path: documenten/Zds_verwerkingssoort_T_of_I.zip
     group: 120
     versie: 
     status: Definitief
     omschrijving: 
+    datum: 20190424
 ---
 
 # Documentatie
@@ -82,7 +92,7 @@ hieronder.
 <table>
 	<thead>
 		<tr>
-			<th>Document</th><th>Versie</th><th>Beheerstatus</th><th>Beschrijving</th>
+			<th>Document</th><th>Versie</th><th>Beheerstatus</th><th>Beschrijving</th><th>Versiedatum</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -97,6 +107,7 @@ hieronder.
 					<td>{{ i.versie }}</td>
 					<td>{{ i.status }}</td>
 					<td>{{ i.omschrijving }}</td>
+					<td>{{ i.datum }}</td>
 				</tr>
 			{% endif %} 
 		{% endfor %}
@@ -108,7 +119,7 @@ hieronder.
 <table>
 	<thead>
 		<tr>
-			<th>Document</th><th>Versie</th><th>Beheerstatus</th><th>Beschrijving</th>
+			<th>Document</th><th>Versie</th><th>Beheerstatus</th><th>Beschrijving</th><th>Versiedatum</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -123,6 +134,7 @@ hieronder.
 					<td>{{ i.versie }}</td>
 					<td>{{ i.status }}</td>
 					<td>{{ i.omschrijving }}</td>
+					<td>{{ i.datum }}</td>
 				</tr>
 			{% endif %} 
 		{% endfor %}
