@@ -11,7 +11,7 @@ Leveranciers houden de actuele releaseplanning ten aanzien van deze standaard bi
 ## Welke softwareproducten ondersteunen de standaard?
 
 De standaard is in lijn met GEMMA en maakt gebruik van onderliggende
-standaarden <span style="color:red">RGBZ 1.0</span>, [StUF-ZKN 3.10](https://vng-realisatie.github.io/StUF-ZKN/) en [CMIS 1.0](http://docs.oasis-open.org/cmis/CMIS/v1.0/cmis-spec-v1.0.html). In de [GEMMA
+standaarden RGBZ 1.0, [StUF-ZKN 3.10](https://vng-realisatie.github.io/StUF-ZKN/) en [CMIS 1.0](http://docs.oasis-open.org/cmis/CMIS/v1.0/cmis-spec-v1.0.html). In de [GEMMA
 Softwarecatalogus](https://www.softwarecatalogus.nl/) vindt u een
 overzicht van alle softwareproducten van leveranciers die zijn gekoppeld
 aan de standaard Zaak-Document services 1.2.
@@ -61,5 +61,5 @@ gedeeltelijk kunt inweven in eigen inkoop- en acceptatievoorwaarden ICT.
 Hiermee borgt u dat in de uitvraag expliciet wordt gevraagd om het
 leveren van de standaard en het voldoen aan de compliancy.
 
-Meer informatie hierover leest u op de pagina <span style="color:red">ICT-opdrachtgeverschap</span> van
+Meer informatie hierover leest u op de pagina ICT-opdrachtgeverschap van
 Operatie NUP en VNG Realisatie.
