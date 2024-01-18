@@ -9,9 +9,19 @@ title: Zaak- en Documentservices
 **Beheerder:**  VNG Realisatie<br/>
 **Afkorting:**  StUF-ZDS
 
-***Gemeenten, leveranciers en VNG Realisatie werken aan een nieuwe
+Verschillende ontwikkelingen maken het vernieuwen van standaarden noodzakelijk 
+om invulling te (blijven) geven aan de behoefte en wensen van gemeenten. 
+Gemeenten, leveranciers en VNG Realisatie werken daarom aan een nieuwe
 generatie standaarden voor zaakgericht werken. Zie voor de voortgang van
-dit project [hier](https://github.com/vng-realisatie/gemma-zaken).***
+dit project [hier](https://vng-realisatie.github.io/gemma-zaken/). 
+
+Ook de doorontwikkeling van de StUF standaard, de StUF sectormodellen en de StUF 
+koppelvlakken waaronder de hier beschreven Zaak- en Documentservices is daarom 
+stopgezet. Alleen wetswijzigingen, wijzigingen in de Logische Ontwerpen van 
+Basisregistraties en gevonden fouten kunnen aanleiding zijn voor het publiceren 
+van een nieuwe versie van deze standaarden. Zo wordt er voor gezorgd dat gemeenten 
+hun werk kunnen blijven doen. Een toelichting op het vernieuwen van de standaarden 
+is te vinden bij API-standaarden.
 
 ## Inleiding
 
@@ -27,9 +37,7 @@ bijbehorende documenten.*
 Hoe krijgt u alle relevante informatie over een zaak centraal, digitaal
 beschikbaar, zodat u alle betrokken afdelingen, andere ketenpartijen,
 burgers en bedrijven inzicht hebben of ermee kunnen werken? De standaard
-Zaak- en Document services zorgt hiervoor. De standaard - Zaak- en
-Documentservices 1.0 - is vastgesteld en heeft de status ‘in gebruik’.
-Dit betekent dat de standaard gereed is voor implementatie.
+Zaak- en Document services zorgt hiervoor.
 
 ## Wat levert de standaard op?
 
