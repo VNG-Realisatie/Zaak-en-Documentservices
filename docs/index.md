@@ -9,6 +9,7 @@ title: Zaak- en Documentservices
 **Beheerder:**  VNG Realisatie<br/>
 **Afkorting:**  StUF-ZDS
 
+## Status en doorontwikkeling
 Verschillende ontwikkelingen maken het vernieuwen van standaarden noodzakelijk 
 om invulling te (blijven) geven aan de behoefte en wensen van gemeenten. 
 Gemeenten, leveranciers en VNG Realisatie werken daarom aan een nieuwe
