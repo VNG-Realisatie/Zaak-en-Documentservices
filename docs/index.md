@@ -68,14 +68,8 @@ zaaksysteem biedt een gemeente de volgende voordelen:
 
 ## Community voor vragen en wijzigingsverzoeken
 
-Op verzoek van aan de werkgroep deelnemende leveranciers en gemeenten
-wordt de StUF standaard Zaak- Documentservices niet verder
-doorontwikkeld. Informatie over de nieuwe generatie standaarden vindt u
-op [Github - GEMMA
-Zaken](https://github.com/vng-realisatie/gemma-zaken).
-
-Desalniettemin kan het voorkomen dat er nog onduidelijkheden zijn in de
-standaard Zaak- Documentservices. Daarvoor hebben wij op Github een
+Het kan voorkomen dat er nog onduidelijkheden zijn in de
+standaard Zaak- Documentservices. Daarvoor is op Github een
 [community](https://github.com/VNG-Realisatie/StUF-Standaarden/labels/Koppelvlak%20-%20ZS-DMS)
 beschikbaar gesteld waar u vragen kunt stellen door een issue aan te
 maken. Middels het label ‘Koppelvlak - ZS-DMS’ kunt u het issue
