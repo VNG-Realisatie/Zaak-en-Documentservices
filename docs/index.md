@@ -13,8 +13,8 @@ title: Zaak- en Documentservices
 Verschillende ontwikkelingen maken het vernieuwen van standaarden noodzakelijk 
 om invulling te (blijven) geven aan de behoefte en wensen van gemeenten. 
 Gemeenten, leveranciers en VNG Realisatie werken daarom aan een nieuwe
-generatie standaarden voor zaakgericht werken. Zie voor de voortgang van
-dit project [hier](https://vng-realisatie.github.io/gemma-zaken/). 
+generatie standaarden voor zaakgericht werken. In de [GitHub repository van GEMMA-Zaken](https://vng-realisatie.github.io/gemma-zaken/) 
+is de voortgang van het project te volgen. 
 
 Ook de doorontwikkeling van de StUF standaard, de StUF sectormodellen en de StUF 
 koppelvlakken waaronder de hier beschreven Zaak- en Documentservices is daarom 
