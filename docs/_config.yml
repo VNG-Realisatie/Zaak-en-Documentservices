@@ -14,8 +14,6 @@ nav:
     subnav:
       - title: Overzicht
         path: /
-      - title: Aan de slag
-        path: /Aan de slag 
       - title: ICT aanbod
         path: /ICT aanbod  
       - title: Techniek
