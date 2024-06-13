@@ -10,7 +10,7 @@ De standaard Zaak- en Documentservices is op 5 juni 2013 formeel vastgesteld doo
 
 Voor een juiste toepassing van de standaard Zaak- en Documentservices zijn door VNG Realisatie compliancy instrumenten ontwikkeld met als doel interoperabiliteitsproblemen tussen applicaties bij gemeenten preventief te verminderen. In de paragraaf ”Wanneer is een softwareproduct compliant” is aangegeven wanneer een softwareproduct compliant is aan de standaard Zaak- en Documentservices.
 
-VNG Realisatie adviseert gemeenten bij aanschaf van software die moet voldoen aan deze standaard gebruik te maken van de [Handreiking Levering en Acceptatievoorwaarden ICT](./documenten/130131_Leverings_en_acceptatievoorwaarden_versie_2_Definitief.pdf). Daarin zijn voorwaarden opgenomen over het gebruik van compliancy instrumenten.
+<!--VNG Realisatie adviseert gemeenten bij aanschaf van software die moet voldoen aan deze standaard gebruik te maken van de [Handreiking Levering en Acceptatievoorwaarden ICT](./documenten/130131_Leverings_en_acceptatievoorwaarden_versie_2_Definitief.pdf). Daarin zijn voorwaarden opgenomen over het gebruik van compliancy instrumenten.-->
 
 ## Testset
 
