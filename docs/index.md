@@ -7,7 +7,8 @@ title: Zaak- en Documentservices
 
 **Actuele versie:** 1.2  
 **Beheerder:**  VNG Realisatie<br/>
-**Afkorting:**  StUF-ZDS
+**Afkorting:**  StUF-ZDS<br/>
+**Status:** In gebruik
 
 ## Status en doorontwikkeling
 Verschillende ontwikkelingen maken het vernieuwen van standaarden noodzakelijk 
